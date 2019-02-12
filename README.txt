@@ -1,3 +1,5 @@
+https://github.com/BoiledGrecha
+
 generator
 
 может понадобиться сделать chmod 777 и исполняемый файл
